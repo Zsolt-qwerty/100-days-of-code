@@ -1,30 +1,105 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Zsolt Peter - Log
+--------------------------------------
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 09/11/2024 ###
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Added CSS to the other recipes as well.
+**Thoughts:** I am aware that there is a better way for the recipes,  maybe PHP, but I haven't learned the right tool yet.
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: 10/11/2024 ###
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 3: 11/11/2024 ###
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 4: 12/11/2024 ###
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
+### Day 5: 13/11/2024 ###
 
-### Day 1: June 27, Monday
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 6: 14/11/2024 ###
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 7: 15/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 8: 16/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 9: 17/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 10: 18/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 11: 19/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 12: 20/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 13: 21/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 14: 22/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 15: 23/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 16: 24/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
+### Day 17: 25/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+
