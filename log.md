@@ -9,8 +9,8 @@
 
 ### Day 2: 10/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Added first JacaScript elements
+**Thoughts:** This refreshed some of the basics...
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 3: 11/11/2024 ###
