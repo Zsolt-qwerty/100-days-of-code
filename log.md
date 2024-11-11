@@ -15,8 +15,8 @@
 
 ### Day 3: 11/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Updated menu elements
+**Thoughts:** Very straightforward, however, this should use probably JavaScript but don't know how to include that yet.
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 4: 12/11/2024 ###
