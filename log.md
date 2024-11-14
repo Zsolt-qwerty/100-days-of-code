@@ -21,14 +21,14 @@
 
 ### Day 4: 12/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Tried to add more js elements to change html
+**Thoughts:** Miserably failed today, I need a lot more study on this before I can try this again.
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 5: 13/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Redesigned "About Us" button
+**Thoughts:** Learned many things regarding writing to html from js, also got stuck for an hour to figure out some "null" issue...
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 6: 14/11/2024 ###
