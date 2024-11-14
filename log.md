@@ -33,8 +33,8 @@
 
 ### Day 6: 14/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Attempted to add a colour theme toggle switch; light and dark mode
+**Thoughts:** I couldn't overcome some issue so it is still far from completion. Will have to figure out how to read colour values from CSS...
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 7: 15/11/2024 ###
