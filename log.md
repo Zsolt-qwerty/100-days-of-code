@@ -39,8 +39,8 @@
 
 ### Day 7: 15/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Added a colour theme toggle switch; light and dark mode
+**Thoughts:** After yesterday's debacle I ahd a breakthrough today, very satisfactory.
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 8: 16/11/2024 ###
