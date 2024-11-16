@@ -45,9 +45,9 @@
 
 ### Day 8: 16/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Today's Progress:** Today was all about javascript, practising methods, expressions etc... Also solved the "FizzBuzz" problem!
+**Thoughts:** Enjoyed the math today and quite a productive day, shall I say!
+**Link to work:** [FizzBuzz](https://github.com/Zsolt-qwerty/git_test/blob/main/FizzBuzz.html)
 
 ### Day 9: 17/11/2024 ###
 
