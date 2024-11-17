@@ -51,8 +51,8 @@
 
 ### Day 9: 17/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Added a collapse button to the ingredient list
+**Thoughts:** It still needs a lot of polishing and improvemnet but it is a start and the first subproblem is solved.
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 10: 18/11/2024 ###
