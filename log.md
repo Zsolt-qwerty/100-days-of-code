@@ -57,8 +57,8 @@
 
 ### Day 10: 18/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Updated the layout with flexbox to reorganise the elements
+**Thoughts:** I just learned about flexbox today and find it a great tool to organise the layout well and make it look modern, love it!
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 11: 19/11/2024 ###
