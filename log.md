@@ -63,8 +63,8 @@
 
 ### Day 11: 19/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Polishing flexbox layout and extending to the whole site
+**Thoughts:** getting more familiar and comfortable with flexbox but there's so much more to learn about it!
 **Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
 
 ### Day 12: 20/11/2024 ###
