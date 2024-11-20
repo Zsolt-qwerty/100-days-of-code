@@ -69,9 +69,9 @@
 
 ### Day 12: 20/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Today's Progress:** Practicing flexbox, playing aroud with values and observing behaviour
+**Thoughts:** I feel this tool is very important in modern webdevelopment so don't mind spending some extra time on it...
+**Link to work:** [flexbox](https://github.com/Zsolt-qwerty/git_test/flexbox.html)
 
 ### Day 13: 21/11/2024 ###
 
