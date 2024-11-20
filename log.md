@@ -71,7 +71,7 @@
 
 **Today's Progress:** Practicing flexbox, playing aroud with values and observing behaviour
 **Thoughts:** I feel this tool is very important in modern webdevelopment so don't mind spending some extra time on it...
-**Link to work:** [flexbox](https://github.com/Zsolt-qwerty/git_test/flexbox.html)
+**Link to work:** [flexbox](https://github.com/Zsolt-qwerty/git_test/blob/main/flexbox.html)
 
 ### Day 13: 21/11/2024 ###
 
