@@ -75,9 +75,9 @@
 
 ### Day 13: 21/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Today's Progress:** Started the "My Blog" practicing project
+**Thoughts:** I'm trying to put together all HTML, CSS and JS I have learned so far...
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
 ### Day 14: 22/11/2024 ###
 
