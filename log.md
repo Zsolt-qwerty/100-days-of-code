@@ -81,9 +81,9 @@
 
 ### Day 14: 22/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Today's Progress:** Building out some menu sructure for "My Blog" project
+**Thoughts:** I'm trying to find a good way of doing a multi page website, not easy without React or some similar tool but I don't know them yet.
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
 ### Day 15: 23/11/2024 ###
 
