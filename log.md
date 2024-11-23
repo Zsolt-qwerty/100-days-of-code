@@ -87,9 +87,9 @@
 
 ### Day 15: 23/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Today's Progress:** Been practicing string modifications today as a refresher
+**Thoughts:** Refresher to be more confident with them.
+**Link to work:** [string](https://github.com/Zsolt-qwerty/git_test/blob/main/string.html)
 
 ### Day 16: 24/11/2024 ###
 
