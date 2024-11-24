@@ -93,9 +93,9 @@
 
 ### Day 16: 24/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Today's Progress:** The "My Blog" project came to a halt and it is a mess
+**Thoughts:** I think I'll just start it from scratch, that should be quicker than trying to fix this messs now...
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
 ### Day 17: 25/11/2024 ###
 
