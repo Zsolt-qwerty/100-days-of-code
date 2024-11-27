@@ -111,9 +111,9 @@
 
 ### Day 19: 27/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+**Today's Progress:** Practicing CSS selector and value behaviours, deepening understnding of operations
+**Thoughts:** Just been playing around with CSS of previous projects to understand better selector and value behaviours.
+**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git) [flexbox](https://github.com/Zsolt-qwerty/git_test/blob/main/flexbox.html)
 
 ### Day 20: 28/11/2024 ###
 
