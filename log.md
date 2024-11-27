@@ -105,8 +105,8 @@
 
 ### Day 18: 26/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
+**Today's Progress:** Implemented new idea of structure for testing out
+**Thoughts:** By try and fail of these ideas lately I'm learning a great deal even if I'm not progressing with this project...
 **Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
 ### Day 19: 27/11/2024 ###
