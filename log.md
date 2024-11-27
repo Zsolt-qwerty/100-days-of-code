@@ -99,7 +99,31 @@
 
 ### Day 17: 25/11/2024 ###
 
+**Today's Progress:** Some content added and discarded some plans of structure that did not work
+**Thoughts:** I am really missing some technologies here, it is hard this way but have a new idea.
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+
+### Day 18: 26/11/2024 ###
+
 **Today's Progress:** 
 **Thoughts:** 
-**Link to work:** [odin-recipes](https://github.com/Zsolt-qwerty/odin-recipes.git)
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+
+### Day 19: 27/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+
+### Day 20: 28/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+
+### Day 21: 29/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
