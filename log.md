@@ -123,6 +123,18 @@
 
 ### Day 21: 29/11/2024 ###
 
+**Today's Progress:** Took the escape room game to a working version with one clue and a working lock that lets the player out
+**Thoughts:** It was great using agile workflow, disney ideation and flowchart to plan this properly and to see how big projects come to life.
+**Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
+
+### Day 22: 30/11/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
+
+### Day 23: 01/12/2024 ###
+
 **Today's Progress:** 
 **Thoughts:** 
 **Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
