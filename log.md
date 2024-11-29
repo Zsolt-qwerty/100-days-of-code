@@ -117,13 +117,13 @@
 
 ### Day 20: 28/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+**Today's Progress:** Started a new project today, an "Escape Room" game where user will need to hunt for clues to escape.
+**Thoughts:** I'm using planning, MVPs and flowchart mimicing a modern software developer environment.
+**Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
 
 ### Day 21: 29/11/2024 ###
 
 **Today's Progress:** 
 **Thoughts:** 
-**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+**Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
 
