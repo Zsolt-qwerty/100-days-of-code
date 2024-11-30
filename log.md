@@ -129,13 +129,13 @@
 
 ### Day 22: 30/11/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
+**Today's Progress:** Playing around JavaScript basics to prep for next week's course and hackathon
+**Thoughts:** Small snipets of code to manipulate strings and number calculations, practice conditionals and loops,  poorly for getting more confidence in them.
+**Link to work:** [string](https://github.com/Zsolt-qwerty/git_test/blob/main/string.html)
 
 ### Day 23: 01/12/2024 ###
 
-**Today's Progress:** 
-**Thoughts:** 
-**Link to work:** [escape-room](https://github.com/SchoolOfCode/week-1-hackathon-sashimi.git)
+**Today's Progress:** Playing around JavaScript basics to prep for next week's course and hackathon
+**Thoughts:** Small snipets of code to manipulate strings and number calculations, practice conditionals and loops,  poorly for getting more confidence in them.
+**Link to work:** [string](https://github.com/Zsolt-qwerty/git_test/blob/main/string.html)
 
