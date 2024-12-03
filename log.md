@@ -139,3 +139,21 @@
 **Thoughts:** Small snipets of code to manipulate strings and number calculations, practice conditionals and loops,  poorly for getting more confidence in them.
 **Link to work:** [string](https://github.com/Zsolt-qwerty/git_test/blob/main/string.html)
 
+### Day 24: 02/12/2024 ###
+
+**Today's Progress:** A currency exchange project that converts GBP to EUR and USD
+**Thoughts:** The key aspect of this project is the use of functions, especilly one from inside another one and so on...
+**Link to work:** [ticket1](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-atoz/blob/main/ticket1.js)
+
+### Day 25: 03/12/2024 ###
+
+**Today's Progress:** A temperature toggle that switches betweeen Celsius and Fahrenheit
+**Thoughts:** The key aspect of this project is the use of functions and global variables
+**Link to work:** [ticket2](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-atoz/blob/main/ticket2.js)
+
+### Day 26: 04/12/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [ticket2](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-atoz/blob/main/ticket2.js)
+
