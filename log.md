@@ -153,7 +153,19 @@
 
 ### Day 26: 04/12/2024 ###
 
-**Today's Progress:** 
+**Today's Progress:** A practice "database" using nested objects in JavaScript; read, write, manipulate
+**Thoughts:** Good practice to get used to objects in JS.
+**Link to work:** [objects](https://github.com/SchoolOfCode/week-2-objects-atoz\script.js)
+
+### Day 27: 05/12/2024 ###
+
+**Today's Progress:** Hackathon day: Rock, Paper, Scissors game
+**Thoughts:** Exciting project that I had been planning on doing for a while, here it is now.
+**Link to work:** [ticket2](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-atoz/blob/main/ticket2.js)
+
+### Day 28: 06/12/2024 ###
+
+**Today's Progress:** Hackathon day: Rock, Paper, Scissors game
 **Thoughts:** 
 **Link to work:** [ticket2](https://github.com/SchoolOfCode/week-2-js-fundamentals-101-atoz/blob/main/ticket2.js)
 
