@@ -161,11 +161,11 @@
 
 **Today's Progress:** Hackathon day: Rock, Paper, Scissors game
 **Thoughts:** Exciting project that I had been planning on doing for a while, here it is now.
-**Link to work:** [rock, paper, scissors](https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-atoz)
+**Link to work:** [rock, paper, scissors](https://schoolofcode.github.io/week-2-hackathon-rock-paper-scissors-atoz/)
 
 ### Day 28: 06/12/2024 ###
 
 **Today's Progress:** Hackathon day: Rock, Paper, Scissors game
-**Thoughts:** 
-**Link to work:** [rock, paper, scissors](https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-atoz)
+**Thoughts:** Brilliant and tidy JavaScript code and a great presentation to top it off. Very pleased with the team's performance and the result altogether.
+**Link to work:** [rock, paper, scissors](https://schoolofcode.github.io/week-2-hackathon-rock-paper-scissors-atoz/)
 
