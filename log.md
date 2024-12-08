@@ -169,3 +169,21 @@
 **Thoughts:** Brilliant and tidy JavaScript code and a great presentation to top it off. Very pleased with the team's performance and the result altogether.
 **Link to work:** [rock, paper, scissors](https://schoolofcode.github.io/week-2-hackathon-rock-paper-scissors-atoz/)
 
+### Day 29: 07/12/2024 ###
+
+**Today's Progress:** Upgraded the rock, paper, scissors game with lizard and spock after the famous tv show The Big Bang Theory and some other polishing and funcionality elements.
+**Thoughts:** I haven't merged this upgrade though as the project was a team effort and it wouldn't be appropriate.
+**Link to work:** [rock, paper, scissors](https://schoolofcode.github.io/week-2-hackathon-rock-paper-scissors-atoz/)
+
+### Day 30: 08/12/2024 ###
+
+**Today's Progress:** Upgraded the rock, paper, scissors game with lizard and spock after the famous tv show The Big Bang Theory and some other polishing and funcionality elements.
+**Thoughts:** I haven't merged this upgrade though as the project was a team effort and it wouldn't be appropriate.
+**Link to work:** [rock, paper, scissors](https://schoolofcode.github.io/week-2-hackathon-rock-paper-scissors-atoz/)
+
+### Day 31: 09/12/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [rock, paper, scissors](https://schoolofcode.github.io/week-2-hackathon-rock-paper-scissors-atoz/)
+
