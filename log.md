@@ -187,3 +187,15 @@
 **Thoughts:** Getting a grasp on the DOM makes the whole difference how interactiv and modern your page would look.
 **Link to work:** [navigating-data](https://github.com/SchoolOfCode/week-3-navigating-data-doctor-dom/tree/zsolt)
 
+### Day 32: 10/12/2024 ###
+
+**Today's Progress:** DOM manipulation triggered by event listeners, changing style of HTML elements, img src's, element contents through a list of "challange" mini projects.
+**Thoughts:** Enjoyed it throughout as I was getting a lot of pregression feeling out of it!
+**Link to work:** [dom-challanges](https://github.com/SchoolOfCode/week-3-dom-challenges-doctor-dom)
+
+### Day 33: 11/12/2024 ###
+
+**Today's Progress:** 
+**Thoughts:** 
+**Link to work:** [dom-challanges](https://github.com/SchoolOfCode/week-3-dom-challenges-doctor-dom)
+
