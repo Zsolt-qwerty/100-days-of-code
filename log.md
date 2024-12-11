@@ -195,7 +195,7 @@
 
 ### Day 33: 11/12/2024 ###
 
-**Today's Progress:** 
+**Today's Progress:** Dad Jokes page using API for new jokes on every refresh and other async await tasks to access APIs.
 **Thoughts:** 
-**Link to work:** [dom-challanges](https://github.com/SchoolOfCode/week-3-dom-challenges-doctor-dom)
+**Link to work:** [dad-jokes](https://github.com/SchoolOfCode/week-3-dad-jokes-fetch-workshop-doctor-dom)
 
