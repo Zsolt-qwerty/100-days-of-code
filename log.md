@@ -196,6 +196,18 @@
 ### Day 33: 11/12/2024 ###
 
 **Today's Progress:** Dad Jokes page using API for new jokes on every refresh and other async await tasks to access APIs.
-**Thoughts:** 
+**Thoughts:** struggled quite a bit at the beginning but got there at the end
 **Link to work:** [dad-jokes](https://github.com/SchoolOfCode/week-3-dad-jokes-fetch-workshop-doctor-dom)
+
+### Day 34: 12/12/2024 ###
+
+**Today's Progress:** Hackaton day: a cartoon series character webpage, fetching all details from API and displays as a profile card. HTML, CSS, JS
+**Thoughts:** Brilliant team, very good start today, finishing tomorrow and presenting to other teams
+**Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
+
+### Day 35: 13/12/2024 ###
+
+**Today's Progress:** Hackaton day: a cartoon series character webpage, fetching all details from API and displays as a profile card. HTML, CSS, JS
+**Thoughts:** 
+**Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
 
