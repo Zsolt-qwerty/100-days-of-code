@@ -208,6 +208,6 @@
 ### Day 35: 13/12/2024 ###
 
 **Today's Progress:** Hackaton day: a cartoon series character webpage, fetching all details from API and displays as a profile card. HTML, CSS, JS
-**Thoughts:** 
+**Thoughts:** Once again, great team effort, finished on time and presented in front of industry professionals. We received a very good feedback as well!
 **Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
 
