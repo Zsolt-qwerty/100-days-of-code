@@ -211,3 +211,15 @@
 **Thoughts:** Once again, great team effort, finished on time and presented in front of industry professionals. We received a very good feedback as well!
 **Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
 
+### Day 36: 14/12/2024 ###
+
+**Today's Progress:** Redesigning the cartoon series character card webpage style to practice different possibilities; CSS, flexbox, JS, async await...
+**Thoughts:** Practising flexbox and other styling to achieve better mobile friendliness and to try other looks.
+**Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
+
+### Day 37: 15/12/2024 ###
+
+**Today's Progress:** Redesigning the cartoon series character card webpage style to practice different possibilities; CSS, flexbox, JS, async await...
+**Thoughts:** Practising flexbox and other styling to achieve better mobile friendliness and to try other looks.
+**Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
+
