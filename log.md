@@ -223,3 +223,9 @@
 **Thoughts:** Practising flexbox and other styling to achieve better mobile friendliness and to try other looks.
 **Link to work:** [cartoon charachter card](https://github.com/SchoolOfCode/week-3-hackathon-doctor-dom)
 
+### Day 38: 16/12/2024 ###
+
+**Today's Progress:** Simple npm export import database API of famous quotes, storing data in json and accessing them in various different ways
+**Thoughts:** I started today back-end and it is a huge struggle at the minute, to all fairness, this is how front-end started so it was expected really...
+**Link to work:** [quote](https://github.com/SchoolOfCode/week-4-working-with-files-themothernoders)
+
