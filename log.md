@@ -229,3 +229,9 @@
 **Thoughts:** I started today back-end and it is a huge struggle at the minute, to all fairness, this is how front-end started so it was expected really...
 **Link to work:** [quote](https://github.com/SchoolOfCode/week-4-working-with-files-themothernoders)
 
+### Day 39: 17/12/2024 ###
+
+**Today's Progress:** Creating a RESTful API handlig quotes with id and author, GET, POST, PATCH, DELETE, async await, npm and express.JS
+**Thoughts:** Plenty of new to learn, it will take some time I think...
+**Link to work:** [REST-API](https://github.com/SchoolOfCode/week-4-building-a-rest-api-themothernoders)
+
