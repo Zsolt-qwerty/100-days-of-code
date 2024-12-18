@@ -235,3 +235,9 @@
 **Thoughts:** Plenty of new to learn, it will take some time I think...
 **Link to work:** [REST-API](https://github.com/SchoolOfCode/week-4-building-a-rest-api-themothernoders)
 
+### Day 40: 18/12/2024 ###
+
+**Today's Progress:** Creating a RESTful API handlig astronauts achievments and other info, GET, POST, PATCH, DELETE, async await, npm and express.JS
+**Thoughts:** The hardest struggle I had today so far but gob tthere at the end. "Enjoying the struggle", huhh?!
+**Link to work:** [RESTful-API-workshop](https://github.com/SchoolOfCode/week-4-restful-api-workshop-themothernoders)
+
