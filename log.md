@@ -241,3 +241,15 @@
 **Thoughts:** The hardest struggle I had today so far but gob tthere at the end. "Enjoying the struggle", huhh?!
 **Link to work:** [RESTful-API-workshop](https://github.com/SchoolOfCode/week-4-restful-api-workshop-themothernoders)
 
+### Day 41: 19/12/2024 ###
+
+**Today's Progress:** Hackathon: Creating a RESTful API, a book database serving GET, POST, PATCH, DELETE requests; use of express.JS
+**Thoughts:** Finally, I have some sort of a breakthrough, things are coming together after all.
+**Link to work:** [RESTful-API-hackathon](https://github.com/SchoolOfCode/week-4-rest-api-hackathon-themothernoders)
+
+### Day 42: 20/12/2024 ###
+
+**Today's Progress:** Hackathon: Creating a RESTful API, a book database serving GET, POST, PATCH, DELETE requests; use of express.JS
+**Thoughts:** Our team ended up with a pretty good presentation as per the feedback received; good planning, good amount of MVPs and great product!
+**Link to work:** [RESTful-API-hackathon](https://github.com/SchoolOfCode/week-4-rest-api-hackathon-themothernoders)
+
