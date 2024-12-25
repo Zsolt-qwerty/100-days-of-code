@@ -238,7 +238,7 @@
 ### Day 40: 18/12/2024 ###
 
 **Today's Progress:** Creating a RESTful API handlig astronauts achievments and other info, GET, POST, PATCH, DELETE, async await, npm and express.JS
-**Thoughts:** The hardest struggle I had today so far but gob tthere at the end. "Enjoying the struggle", huhh?!
+**Thoughts:** The hardest struggle I had today so far but got there at the end...
 **Link to work:** [RESTful-API-workshop](https://github.com/SchoolOfCode/week-4-restful-api-workshop-themothernoders)
 
 ### Day 41: 19/12/2024 ###
@@ -252,4 +252,16 @@
 **Today's Progress:** Hackathon: Creating a RESTful API, a book database serving GET, POST, PATCH, DELETE requests; use of express.JS
 **Thoughts:** Our team ended up with a pretty good presentation as per the feedback received; good planning, good amount of MVPs and great product!
 **Link to work:** [RESTful-API-hackathon](https://github.com/SchoolOfCode/week-4-rest-api-hackathon-themothernoders)
+
+### Day 43: 21/12/2024 ###
+
+**Today's Progress:** Upgrading a previous RESTful API project, a book database and playing around with GET, POST, PATCH, DELETE requests; use of express.JS
+**Thoughts:** Practice, practice and practice...
+**Link to work:** [RESTful-API-workshop](https://github.com/SchoolOfCode/week-4-restful-api-workshop-themothernoders)
+
+### Day 44: 22/12/2024 ###
+
+**Today's Progress:** Upgrading a previous RESTful API project, a book database and playing around with GET, POST, PATCH, DELETE requests; use of express.JS
+**Thoughts:** Practice, practice and practice...
+**Link to work:** [RESTful-API-workshop](https://github.com/SchoolOfCode/week-4-restful-api-workshop-themothernoders)
 
