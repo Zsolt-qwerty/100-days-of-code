@@ -265,3 +265,15 @@
 **Thoughts:** Practice, practice and practice...
 **Link to work:** [RESTful-API-workshop](https://github.com/SchoolOfCode/week-4-restful-api-workshop-themothernoders)
 
+### Day 45: 23/12/2024 ###
+
+**Today's Progress:** A little bit of pre-Christmas CodeWars to keep the code flowing
+**Thoughts:** Practice, practice and practice...
+**Link to work:** [codewars](https://www.codewars.com/)
+
+### Day 46: 24/12/2024 ###
+
+**Today's Progress:** A little bit of pre-Christmas CodeWars to keep the code flowing
+**Thoughts:** I'm up a kyu! ;)
+**Link to work:** [codewars](https://www.codewars.com/)
+
