@@ -277,3 +277,15 @@
 **Thoughts:** I'm up a kyu! ;)
 **Link to work:** [codewars](https://www.codewars.com/)
 
+### Day 47: 25/12/2024 ###
+
+**Today's Progress:** Some Christmas Codewars practice to keep it going during the holidays
+**Thoughts:** Practice can never hurt!
+**Link to work:** [codewars](https://www.codewars.com/)
+
+### Day 48: 26/12/2024 ###
+
+**Today's Progress:** Some Christmas Codewars practice to keep it going during the holidays
+**Thoughts:** I enjoy these little challanges, so much fun!
+**Link to work:** [codewars](https://www.codewars.com/)
+
