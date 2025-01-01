@@ -301,3 +301,9 @@
 **Thoughts:** I find a lot of element of this project can have a few solutions, it's intresting and educationl playing around with them.
 **Link to work:** [objects](https://github.com/SchoolOfCode/week-2-objects-atoz\script.js)
 
+### Day 51: 29/12/2024 ###
+
+**Today's Progress:** Back to the 90's! Trying to add a cool UI to my Tamagotchi, buttons for interacting to start with
+**Thoughts:** This is a great opportunity for practicing eventhandlers
+**Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
+
