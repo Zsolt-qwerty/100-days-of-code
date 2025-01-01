@@ -289,9 +289,15 @@
 **Thoughts:** I enjoy these little challanges, so much fun!
 **Link to work:** [codewars](https://www.codewars.com/)
 
-### Day 49: 26/12/2024 ###
+### Day 49: 27/12/2024 ###
 
 **Today's Progress:** Revisiting objects in JS; handling, reading, modify, iterate through
 **Thoughts:** A little reminder to try and cement the basics.
+**Link to work:** [objects](https://github.com/SchoolOfCode/week-2-objects-atoz\script.js)
+
+### Day 50: 28/12/2024 ###
+
+**Today's Progress:** Back to the 90's! Creating a Tamagotchi Virtual Pet in console using JS
+**Thoughts:** I find a lot of element of this project can have a few solutions, it's intresting and educationl playing around with them.
 **Link to work:** [objects](https://github.com/SchoolOfCode/week-2-objects-atoz\script.js)
 
