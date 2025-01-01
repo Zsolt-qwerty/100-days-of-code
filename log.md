@@ -289,3 +289,9 @@
 **Thoughts:** I enjoy these little challanges, so much fun!
 **Link to work:** [codewars](https://www.codewars.com/)
 
+### Day 49: 26/12/2024 ###
+
+**Today's Progress:** Revisiting objects in JS; handling, reading, modify, iterate through
+**Thoughts:** A little reminder to try and cement the basics.
+**Link to work:** [objects](https://github.com/SchoolOfCode/week-2-objects-atoz\script.js)
+
