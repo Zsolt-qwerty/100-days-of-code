@@ -313,3 +313,9 @@
 **Thoughts:** Great for practicing the trio of web; html, css and js!
 **Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
 
+### Day 53: 31/12/2024 ###
+
+**Today's Progress:** Back to the 90's! Upgrading the UI/UX to my Tamagotchi, more fluid and intuitive handling
+**Thoughts:** So many ideas for design, not enough time...
+**Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
+
