@@ -298,7 +298,7 @@
 ### Day 50: 28/12/2024 ###
 
 **Today's Progress:** Back to the 90's! Creating a Tamagotchi Virtual Pet in console using JS
-**Thoughts:** I find a lot of element of this project can have a few solutions, it's intresting and educationl playing around with them.
+**Thoughts:** I find a lot of element of this project can have a few solutions, it's intresting and educational playing around with them.
 **Link to work:** [objects](https://github.com/SchoolOfCode/week-2-objects-atoz\script.js)
 
 ### Day 51: 29/12/2024 ###
@@ -315,7 +315,13 @@
 
 ### Day 53: 31/12/2024 ###
 
-**Today's Progress:** Back to the 90's! Upgrading the UI/UX to my Tamagotchi, more fluid and intuitive handling
+**Today's Progress:** Back to the 90's! Upgrading the UI/UX to my Tamagotchi, more fluid and intuitive navigating
 **Thoughts:** So many ideas for design, not enough time...
+**Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
+
+### Day 54: 01/01/2025 ###
+
+**Today's Progress:** Back to the 90's, Tamagotchi project! Added handlers for wrong inputs, out of sequence interactions; extras such as renaming pet, etc...
+**Thoughts:** Enjoy JS more day by day!
 **Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
 
