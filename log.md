@@ -325,3 +325,9 @@
 **Thoughts:** Enjoy JS more day by day!
 **Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
 
+### Day 55: 02/01/2025 ###
+
+**Today's Progress:** Back to the 90's, Tamagotchi project! Adjusted design and layout after changes in buttons and functionalities
+**Thoughts:** Revisited flexbox and grid to see which layout concept would work better for the buttons.
+**Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
+
