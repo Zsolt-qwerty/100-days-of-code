@@ -331,3 +331,9 @@
 **Thoughts:** Revisited flexbox and grid to see which layout concept would work better for the buttons.
 **Link to work:** [Tamagotchi](https://github.com/Zsolt-qwerty/tamagotchi)
 
+### Day 56: 03/01/2025 ###
+
+**Today's Progress:** Revisited my blog project from earlier and gave it a complete restructuring to implement all that I'd learnt since
+**Thoughts:** It feels great revisiting an old project and upgrade it with ease showing that I have improved since!
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+
