@@ -343,3 +343,9 @@
 **Thoughts:** I think it will be a good project to practice API and database with, I'll have to come back to this again!
 **Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
+### Day 58: 05/01/2025 ###
+
+**Today's Progress:** Created a blog API to better serve my blog webpage and to practice fetch and http requests
+**Thoughts:** I love it how things are coming together and can see real life applications!
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
