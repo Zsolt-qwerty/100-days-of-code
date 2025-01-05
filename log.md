@@ -337,3 +337,9 @@
 **Thoughts:** It feels great revisiting an old project and upgrade it with ease showing that I have improved since!
 **Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
 
+### Day 57: 04/01/2025 ###
+
+**Today's Progress:** Upgraded the blog paging buttons to help navigating the site smoother for a better the UX
+**Thoughts:** I think it will be a good project to practice API and database with, I'll have to come back to this again!
+**Link to work:** [blog](https://github.com/Zsolt-qwerty/blog/blob/main/index.html)
+
