@@ -349,3 +349,9 @@
 **Thoughts:** I love it how things are coming together and can see real life applications!
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 59: 06/01/2025 ###
+
+**Today's Progress:** Implemented the RESTful API conventions to my blog API, updated naming, file structuring and tested all functionalities (CRUD) still working
+**Thoughts:** I'm trying to implement all professional ways and conventions, earlier the better!
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
