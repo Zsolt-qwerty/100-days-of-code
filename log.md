@@ -355,3 +355,9 @@
 **Thoughts:** I'm trying to implement all professional ways and conventions, earlier the better!
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 60: 07/01/2025 ###
+
+**Today's Progress:** Carried on working on my blog RESTful API, some of the requests needed ironed out and revisited after the API convention implementation
+**Thoughts:** This is a perfect example for when it would have been a lot easier to start the right way than trying to restructure a complete project, but that's just life...
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
