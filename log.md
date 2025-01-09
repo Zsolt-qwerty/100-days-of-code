@@ -361,3 +361,9 @@
 **Thoughts:** This is a perfect example for when it would have been a lot easier to start the right way than trying to restructure a complete project, but that's just life...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 61: 08/01/2025 ###
+
+**Today's Progress:** Long day today on the bootcamp connecting an API to a PostgreSQL database and still had time to fix a few little things on my blog API and utilise some environment variables that lerned today
+**Thoughts:** Exciting times!
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
