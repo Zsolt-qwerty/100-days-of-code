@@ -373,3 +373,9 @@
 **Thoughts:** Great start, brilliant planning, majority of code completed, even had some time for bug hunting...
 **Link to work:** [database-hackathon](https://github.com/SchoolOfCode/week-5-hackathon-room-9-dsz)
 
+### Day 63: 10/01/2025 ###
+
+**Today's Progress:** Hackathon: Task was to build a RESTful API from scratch implementing file structure conventions that fetches data from a relational (PostgreSQL) database, also utilising environment variables for securing database credentials and to set development logs
+**Thoughts:** Brilliant presentation even with one man down, very good feedback, positive and thorough!
+**Link to work:** [database-hackathon](https://github.com/SchoolOfCode/week-5-hackathon-room-9-dsz)
+
