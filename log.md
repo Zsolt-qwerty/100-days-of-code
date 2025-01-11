@@ -351,13 +351,13 @@
 
 ### Day 59: 06/01/2025 ###
 
-**Today's Progress:** Implemented the RESTful API conventions to my blog API, updated naming, file structuring and tested all functionalities (CRUD) still working
+**Today's Progress:** Implemented RESTful API conventions to my blog API, updated naming, file structuring and tested all functionalities (CRUD) still working
 **Thoughts:** I'm trying to implement all professional ways and conventions, earlier the better!
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
 ### Day 60: 07/01/2025 ###
 
-**Today's Progress:** Carried on working on my blog RESTful API, some of the requests needed ironed out and revisited after the API convention implementation
+**Today's Progress:** Carried on working on my blog RESTful API, some of the requests needed ironed out and revisited after implementing API conventions
 **Thoughts:** This is a perfect example for when it would have been a lot easier to start the right way than trying to restructure a complete project, but that's just life...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
@@ -378,4 +378,10 @@
 **Today's Progress:** Hackathon: Task was to build a RESTful API from scratch implementing file structure conventions that fetches data from a relational (PostgreSQL) database, also utilising environment variables for securing database credentials and to set development logs
 **Thoughts:** Brilliant presentation even with one man down, very good feedback, positive and thorough!
 **Link to work:** [database-hackathon](https://github.com/SchoolOfCode/week-5-hackathon-room-9-dsz)
+
+### Day 64: 11/01/2025 ###
+
+**Today's Progress:** Took on the task of creating the key function fetching the posts for my blog website from my blog API, still work in progress...
+**Thoughts:** It involves a lot of researching but it's a very interesting project
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
