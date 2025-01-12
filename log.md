@@ -381,7 +381,13 @@
 
 ### Day 64: 11/01/2025 ###
 
-**Today's Progress:** Took on the task of creating the key function fetching the posts for my blog website from my blog API, still work in progress...
+**Today's Progress:** Took on the task today of creating the key function fetching posts for my blog website from my blog API, still work in progress...
 **Thoughts:** It involves a lot of researching but it's a very interesting project
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
+### Day 65: 12/01/2025 ###
+
+**Today's Progress:** Created the function fetching posts for my blog website from my blog API, after rigorous testing I will upgrade to a full set of CRUD requests
+**Thoughts:** Step by step but it's getting there...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
