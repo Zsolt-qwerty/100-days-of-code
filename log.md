@@ -391,3 +391,15 @@
 **Thoughts:** Step by step but it's getting there...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 66: 13/01/2025 ###
+
+**Today's Progress:** This week's topic at the bootcamp is Testing, so I took on the challange writing tests for my blog API project using vitest; unit and integration tests
+**Thoughts:** After a very good start I got stuck with http requests, I am trying to use supertest to make it work but something is not quite right yet.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
+### Day 67: 14/01/2025 ###
+
+**Today's Progress:** This week's topic at the bootcamp is Testing, so I took on the challange writing tests for my blog API project using vitest; unit and integration tests
+**Thoughts:** Unit tests are quite straightforward, I like grouping them with describe to make it look better.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
