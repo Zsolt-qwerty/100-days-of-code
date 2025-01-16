@@ -363,7 +363,7 @@
 
 ### Day 61: 08/01/2025 ###
 
-**Today's Progress:** Long day today on the bootcamp connecting an API to a PostgreSQL database and still had time to fix a few little things on my blog API and utilise some environment variables that lerned today
+**Today's Progress:** Long day today on the bootcamp connecting an API to a PostgreSQL database and still had time to fix a few little things on my blog API and utilise some environment variables that learned today
 **Thoughts:** Exciting times!
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
@@ -401,5 +401,11 @@
 
 **Today's Progress:** This week's topic at the bootcamp is Testing, so I took on the challange writing tests for my blog API project using vitest; unit and integration tests
 **Thoughts:** Unit tests are quite straightforward, I like grouping them with describe to make it look better.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
+### Day 68: 15/01/2025 ###
+
+**Today's Progress:** Extended the range of http requests for my blog API, now it can fetch all, fetch by ID and create an entry,on the way to a full set of CRUD requests
+**Thoughts:** I stumbled upon some issues that cost me some valuable time but I think about it as a learnng curve.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
