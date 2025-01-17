@@ -409,3 +409,15 @@
 **Thoughts:** I stumbled upon some issues that cost me some valuable time but I think about it as a learnng curve.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 69: 16/01/2025 ###
+
+**Today's Progress:** Hackathon: Create a "Codewars" style challange (kata), this is to cement the testing material we learned this week. We implemented TDD, unit testing with vitest, edge case testing, analysing test coverage and more
+**Thoughts:** Really good start on the project today; planning phases through Disney ideation method and dot voting, assigning projects, creating MVPs, writing first test, writing first codes
+**Link to work:** [kata-hackathon](https://github.com/SchoolOfCode/week-6-hackathon-Zsolt-qwerty)
+
+### Day 70: 17/01/2025 ###
+
+**Today's Progress:** Hackathon: Create a "Codewars" style challange (kata), this is to cement the testing material we learned this week. We implemented TDD, unit testing with vitest, edge case testing, analysing test coverage and more
+**Thoughts:** Presention day: after finishing off the tests and code, we tried out other bootcampers' katas then shortly after presented our work, exciting day!
+**Link to work:** [kata-hackathon](https://github.com/SchoolOfCode/week-6-hackathon-Zsolt-qwerty)
+
