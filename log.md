@@ -421,3 +421,9 @@
 **Thoughts:** Presention day: after finishing off the tests and code, we tried out other bootcampers' katas then shortly after presented our work, exciting day!
 **Link to work:** [kata-hackathon](https://github.com/SchoolOfCode/week-6-hackathon-Zsolt-qwerty)
 
+### Day 71: 18/01/2025 ###
+
+**Today's Progress:** I decided to link up my blog api to a PostgreSQL database and transfer all the locally stored data over. I started rewriting the models sending the SQL queries to the database starting with select all for testing connection in the first place
+**Thoughts:** I find it crazy that every week when we learn something new I can implement it straight away.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
