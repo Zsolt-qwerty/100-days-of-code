@@ -427,3 +427,9 @@
 **Thoughts:** I find it crazy that every week when we learn something new I can implement it straight away.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 72: 19/01/2025 ###
+
+**Today's Progress:** I tested the link and first query going through between my blog api and a PostgreSQL database, and started working on the other queries to have a complete CRUD setup
+**Thoughts:** I actually thought this would be a bit more straightforward but I like where this is going so it's worth it!
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
