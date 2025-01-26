@@ -439,3 +439,9 @@
 **Thoughts:** I struggled a bit with reading data out of a json but seemingly all sorted now...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 74: 21/01/2025 ###
+
+**Today's Progress:** Blog API: GET, GET by ID, POST requests added to progress with transferring the locally stored data over to the PostgreSQL database
+**Thoughts:** The POST request also takes partial data by having default values of input elements in case they're undefined
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
