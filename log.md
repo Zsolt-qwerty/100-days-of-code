@@ -451,3 +451,9 @@
 **Thoughts:** The PATCH request will have to be upgraded to be able to take partial data as well, only the properties that are actually changing
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 76: 23/01/2025 ###
+
+**Today's Progress:** Hackathon: Task was to recreate a "React Flashcards" webpage using React, HTML and CSS. We used states, props, flexbox etc to achieve a pretty close match to the example
+**Thoughts:** This project introduced us to various new tools and concepts but my team tackled the obsticules quite well!
+**Link to work:** [react-flashcards-hackathon](https://github.com/SchoolOfCode/week-7-hackathon-cookiemonsters); [deployed](https://schoolofcode.github.io/week-7-hackathon-cookiemonsters/)
+
