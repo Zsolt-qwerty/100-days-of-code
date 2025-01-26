@@ -433,3 +433,9 @@
 **Thoughts:** I actually thought this would be a bit more straightforward but I like where this is going so it's worth it!
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 73: 20/01/2025 ###
+
+**Today's Progress:** Blog API: created helper functions to handle the PostgreSQL database; reset database mainly for the developing phase and for testing
+**Thoughts:** I struggled a bit with reading data out of a json but seemingly all sorted now...
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
