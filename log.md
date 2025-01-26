@@ -469,3 +469,9 @@
 **Thoughts:** I looked at Render.com for deploying my project but it's not there yet...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 79: 26/01/2025 ###
+
+**Today's Progress:** Blog API: Added/upgraded a graceful and more informative error handling and separeted better "no match" cases to actual errors
+**Thoughts:** I had to stop to rethink what is an actual error and what is a succesful response with no matches returned
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
