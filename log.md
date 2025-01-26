@@ -463,3 +463,9 @@
 **Thoughts:** Very happy with my team's performance, the project's outcome and most of all the fantastic feedback we received, thanks team!
 **Link to work:** [react-flashcards-hackathon](https://github.com/SchoolOfCode/week-7-hackathon-cookiemonsters); [deployed](https://schoolofcode.github.io/week-7-hackathon-cookiemonsters/)
 
+### Day 78: 25/01/2025 ###
+
+**Today's Progress:** Blog API: Added filtering functionality to the GET request so it can filter by date now, also added a "health check" route for future use once deployed
+**Thoughts:** I looked at Render.com for deploying my project but it's not there yet...
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
