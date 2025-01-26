@@ -457,3 +457,9 @@
 **Thoughts:** This project introduced us to various new tools and concepts but my team tackled the obsticules quite well!
 **Link to work:** [react-flashcards-hackathon](https://github.com/SchoolOfCode/week-7-hackathon-cookiemonsters); [deployed](https://schoolofcode.github.io/week-7-hackathon-cookiemonsters/)
 
+### Day 77: 24/01/2025 ###
+
+**Today's Progress:** Hackathon (presentation day): Polishing off some functionalities and CSS of the "React Flashcards" project in the morning then prep for presentation. Our team received a brilliant feedback especially for taking the extra mile deploying the project for public access
+**Thoughts:** Very happy with my team's performance, the project's outcome and most of all the fantastic feedback we received, thanks team!
+**Link to work:** [react-flashcards-hackathon](https://github.com/SchoolOfCode/week-7-hackathon-cookiemonsters); [deployed](https://schoolofcode.github.io/week-7-hackathon-cookiemonsters/)
+
