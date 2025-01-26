@@ -445,3 +445,9 @@
 **Thoughts:** The POST request also takes partial data by having default values of input elements in case they're undefined
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 75: 22/01/2025 ###
+
+**Today's Progress:** Blog API: PATCH and DELETE requests added to progress with transferring the locally stored data over to the PostgreSQL database
+**Thoughts:** The PATCH request will have to be upgraded to be able to take partial data as well, only the properties that are actually changing
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
