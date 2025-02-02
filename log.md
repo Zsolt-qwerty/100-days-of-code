@@ -499,3 +499,9 @@
 **Thoughts:** Well planned out at the beginnig helping us through the whole project, polishing off in the morning then presentation time.
 **Link to work:** [play-that-choon-hackathon](https://github.com/SchoolOfCode/week-8-hackathon-cnz); [deployed](https://trying-nu.vercel.app/)
 
+### Day 84: 31/01/2025 ###
+
+**Today's Progress:** Hackathon (presentation day): Finishing off some of the functionalities to fully complete MVP 1, 2 and 3 for the presentation. The song list with a grid layout got replaced by a Material UI / eMotion carousel component that ended up with a bug unfortunately
+**Thoughts:** Due to lack of time the bug stayed in it for now but I have a pretty good idea what it is and how to fix it.
+**Link to work:** [play-that-choon-hackathon](https://github.com/SchoolOfCode/week-8-hackathon-cnz); [deployed](https://trying-nu.vercel.app/)
+
