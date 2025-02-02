@@ -505,3 +505,9 @@
 **Thoughts:** Due to lack of time the bug stayed in it for now but I have a pretty good idea what it is and how to fix it.
 **Link to work:** [play-that-choon-hackathon](https://github.com/SchoolOfCode/week-8-hackathon-cnz); [deployed](https://trying-nu.vercel.app/)
 
+### Day 85: 01/02/2025 ###
+
+**Today's Progress:** Blog API: Added POST and PATCH by ID request tests to have a complete CRUD test in place
+**Thoughts:** It may need a little polishing off when it comes to comparing dates with .toMatchObject().
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
