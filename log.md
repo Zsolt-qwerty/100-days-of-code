@@ -487,3 +487,9 @@
 **Thoughts:** I looked into RegEx and I will implement it tomorrow, fascinating tool
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 82: 29/01/2025 ###
+
+**Today's Progress:** Blog API: The GET elements by date filter test is working fine now, also added DELETE by ID test
+**Thoughts:** I was on the wrong path yesterday about the filter one, it was such a simple solution makes it look like I barely did anyting...
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
