@@ -481,3 +481,9 @@
 **Thoughts:** A lot of hurdles to make it actualy work, for example the issue ending pool before test by accident costing hours to figure out
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 81: 28/01/2025 ###
+
+**Today's Progress:** Blog API: Added http GET request tests for all elements and by ID; there's still some work with the GET elements by date filter test, it's not quite there yet
+**Thoughts:** I looked into RegEx and I will implement it tomorrow, fascinating tool
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
