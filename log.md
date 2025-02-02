@@ -493,3 +493,9 @@
 **Thoughts:** I was on the wrong path yesterday about the filter one, it was such a simple solution makes it look like I barely did anyting...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 83: 30/01/2025 ###
+
+**Today's Progress:** Hackathon: Task was to create anything utilising what we had learned about web engineering and before; Our team decided to make a single page song selector application. We used React, Material UI, HTML, CSS, states, props, hooks, flexbox, grid and so on.
+**Thoughts:** Well planned out at the beginnig helping us through the whole project, polishing off in the morning then presentation time.
+**Link to work:** [play-that-choon-hackathon](https://github.com/SchoolOfCode/week-8-hackathon-cnz); [deployed](https://trying-nu.vercel.app/)
+
