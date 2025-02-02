@@ -475,3 +475,9 @@
 **Thoughts:** I had to stop to rethink what is an actual error and what is a succesful response with no matches returned
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 80: 27/01/2025 ###
+
+**Today's Progress:** Blog API: Set up tests using vitest and supertest; set up mocking a database and that the API health check comes back positive
+**Thoughts:** A lot of hurdles to make it actualy work, for example the issue ending pool before test by accident costing hours to figure out
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
