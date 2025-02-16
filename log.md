@@ -517,3 +517,9 @@
 **Thoughts:** It was a lot more of thinking of edge cases rather than coding today but that's even more useful for my own development.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 87: 03/02/2025 ###
+
+**Today's Progress:** Blog API: Upgraded the list of POST, PATCH and DELETE tests to cover edge cases and intended fails as I realised I wasn't really testing the right scenarios
+**Thoughts:** It was a lot more of thinking of edge cases rather than coding today but that's even more useful for my own development.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
