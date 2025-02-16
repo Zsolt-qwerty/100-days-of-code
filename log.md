@@ -511,3 +511,9 @@
 **Thoughts:** It may need a little polishing off when it comes to comparing dates with .toMatchObject().
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 86: 02/02/2025 ###
+
+**Today's Progress:** Blog API: Upgraded the list of GET tests to cover edge cases and intended fails as I realised I wasn't really testing the right scenarios
+**Thoughts:** It was a lot more of thinking of edge cases rather than coding today but that's even more useful for my own development.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
