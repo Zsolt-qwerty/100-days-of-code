@@ -526,6 +526,12 @@
 ### Day 88: 04/02/2025 ###
 
 **Today's Progress:** Blog API: I had to figure out the right way of handling the Date object and its formats to be able to match values in my tests. Learned some simpler ways such as slice(0, 10) but split('T')[0] seems to be safer, I also added some regex to bulletproof the format
-**Thoughts:** It may need a little polishing off when it comes to comparing dates with .toMatchObject().
+**Thoughts:** This was long overdue...
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
+### Day 89: 05/02/2025 ###
+
+**Today's Progress:** Blog API: Today I sorted an issue with loading environment variables for Vitest but without Vite and its config file. Now it loads them before running the tests without the dotenv package to benefit of the Node v20 update
+**Thoughts:** Not sure how useful this is though as normally I would have the config file anyway I think where this can be managed...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
