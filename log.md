@@ -513,13 +513,19 @@
 
 ### Day 86: 02/02/2025 ###
 
-**Today's Progress:** Blog API: Upgraded the list of GET tests to cover edge cases and intended fails as I realised I wasn't really testing the right scenarios
+**Today's Progress:** Blog API: Upgraded the list of GET tests to cover edge cases and added intended fails as I realised I wasn't really testing the right scenarios
 **Thoughts:** It was a lot more of thinking of edge cases rather than coding today but that's even more useful for my own development.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
 ### Day 87: 03/02/2025 ###
 
-**Today's Progress:** Blog API: Upgraded the list of POST, PATCH and DELETE tests to cover edge cases and intended fails as I realised I wasn't really testing the right scenarios
+**Today's Progress:** Blog API: Upgraded the list of POST, PATCH and DELETE tests to cover edge cases and added intended fails as I realised I wasn't really testing the right scenarios
 **Thoughts:** It was a lot more of thinking of edge cases rather than coding today but that's even more useful for my own development.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
+### Day 88: 04/02/2025 ###
+
+**Today's Progress:** Blog API: I had to figure out the right way of handling the Date object and its formats to be able to match values in my tests. Learned some simpler ways such as slice(0, 10) but split('T')[0] seems to be safer, I also added some regex to bulletproof the format
+**Thoughts:** It may need a little polishing off when it comes to comparing dates with .toMatchObject().
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
