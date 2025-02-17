@@ -541,3 +541,9 @@
 **Thoughts:** New concept of designing, new tools, new angle of creating apps.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 91: 07/02/2025 ###
+
+**Today's Progress:** Human Centered Design design sprint: User Research and Presentation day: After carrying out some user tests on our prototype we gave a presentation of our design sprint and the prototype. We received great feedback from the stakeholders and the mentors
+**Thoughts:** New concept of designing, new tools, new angle of creating apps.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
