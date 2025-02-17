@@ -535,3 +535,9 @@
 **Thoughts:** Not sure how useful this is though as normally I would have the config file anyway I think where this can be managed...
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 90: 06/02/2025 ###
+
+**Today's Progress:** Human Centered Design design sprint: After rigorous planning in the last 3 days, today we created our hi-fi prototype in Figma. It is designed as a mobile first aplication to help people find jobs or further education by levelling up their skills
+**Thoughts:** New concept of designing, new tools, new angle of creating apps.
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
