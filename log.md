@@ -547,3 +547,9 @@
 **Thoughts:** New concept of designing, new tools, new angle of creating apps.
 **Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
 
+### Day 92: 08/02/2025 ###
+
+**Today's Progress:** Blog API: Added test Coverage to help understand what areas need looked at more in detail or have been missed
+**Thoughts:** Pretty useful and luckily straightforward tool
+**Link to work:** [blog-api](https://github.com/Zsolt-qwerty/blog-api)
+
